@@ -1,3 +1,5 @@
+''' Code to train a model using a shallower verison of unet '''
+
 from tensorflow.python import keras as keras
 import numpy as np 
 from tensorflow.python.keras.models import *
