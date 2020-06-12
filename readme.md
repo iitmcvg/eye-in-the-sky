@@ -6,7 +6,7 @@ This is the submission by the team from IIT Madras which participated in Inter I
 The goal was to achieve satellite image segmentation using a training dataset of only *14* images, of size approx 1200x1200.   
 The output image pixels had to be segmented into 8 classes ( or as background):
 Swimming Pool, Oceans, Grasslands, Forests, Roads, Railways, Bare soil and Buildings.
-More details are available in the Problem-Statement pdf.
+More details are available in the Problem-Statement pdf titled "Eye-in-the-Sky"
 
 ## Our Solution
 
