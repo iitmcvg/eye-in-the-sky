@@ -10,7 +10,7 @@ More details are available in the Problem-Statement pdf.
 
 ## Our Solution
 
-We used a mixture of pure computer vision techniques and deep learning approaches for the problem. Our approach was to obtain binary segmentation maps class-wise. Details are mentioned in the report.
+We used a mixture of pure computer vision techniques and deep learning approaches for the problem. Our approach was to obtain binary segmentation maps class-wise. Details are mentioned in the report titled "InterIIT_2018IITM.pdf" 
 
 ## Code dependencies
 
